@@ -1,0 +1,25 @@
+It/PRP 's/VBZ a/DT significant/JJ promise/NN ./.
+It/PRP 's/VBZ a/DT big/JJ country/NN ,/, Tom/NNP ./.
+I/PRP 'm/VBP going/VBG to/TO see/VB a/DT movie/NN ./.
+I/PRP would/MD n't/RB bet/VB on/IN going/VBG to/IN the/DT fair/NN today/RB ./.
+He/PRP catches/VBZ the/DT train/NN every/DT morning/NN ./.
+He/PRP made/VBD the/DT hard/JJ decision/NN but/CC the/DT right/JJ one/NN ./.
+Tom/NNP is/VBZ really/RB tall/JJ ./.
+Everything/NN will/MD be/VB okay/JJ in/IN the/DT end/NN ./.
+I/PRP 'm/VBP starving/JJ ./.
+Matthew/NNP went/VBD home/RB ./.
+We/PRP can/MD get/VB ice/NN cream/NN ./.
+I/PRP 'm/VBP rather/RB fond/JJ of/IN him/PRP ./.
+He/PRP wished/VBD that/IN time/NN would/MD pass/VB faster/JJR ./.
+I/PRP was/VBD okay/JJ the/DT second/NN I/PRP saw/VBD him/PRP ./.
+I/PRP wonder/VBP why/WRB they/PRP left/VBD my/PRP$ name/NN off/IN the/DT list/NN ./.
+You/PRP can/MD make/VB ice/NN cream/NN ./.
+It/PRP 's/VBZ up/RB to/IN you/PRP ./.
+The/DT earth/NN is/VBZ far/RB larger/JJR than/IN the/DT moon/NN ./.
+She/PRP felt/VBD sad/JJ for/IN no/DT real/JJ reason/NN ./.
+I/PRP 've/VBP never/RB seen/VBN a/DT whale/NN that/RB big/JJ ./.
+It/PRP 's/VBZ an/DT important/JJ company/NN ./.
+The/DT planet/NN had/VBD n't/RB yet/RB been/VBN discovered/VBN ./.
+If/IN you/PRP go/VBP there/RB ,/, you/PRP will/MD find/VB him/PRP ./.
+Knowledge/NN is/VBZ power/NN ./.
+Being/VBG fashionable/JJ is/VBZ pointless/JJ ./.

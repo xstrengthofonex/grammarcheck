@@ -1,0 +1,6 @@
+pytest
+nltk
+jinja2
+falcon
+textstat
+waitress

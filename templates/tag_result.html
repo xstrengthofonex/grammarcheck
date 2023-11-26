@@ -1,0 +1,18 @@
+<div id="result">
+<!--    <h3 class="mb-3">{{ result.score }}% correct</h3>-->
+    <div class="mb-3 row row-cols-auto justify-content-center">
+        {% for r in result.results %}
+        <div class="col">
+            <div class="mb-2">{{ r[0] }}</div>
+            <div>
+                {% if r[1] %}
+                <i class="bi-check-circle" style="font-size: 2rem; color: green;"></i>
+                {% else %}
+                <i class="bi-x-circle" style="font-size: 2rem; color: red;"></i>
+                {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <button hx-get="/pos/attempt" hx-target="#result" hx-swap="outerHTML" class="btn btn-primary">Try Another</button>
+</div>

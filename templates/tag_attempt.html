@@ -1,0 +1,26 @@
+
+{% if text %}
+    <form hx-post="/pos/attempt/{{ text.id }}" hx-target="this" hx-swap="outHTML">
+        <div class="mb-3 row row-cols-auto justify-content-center">
+            {% for tag in text.tags %}
+            <div class="col">
+                <div class="mb-2">{{ tag[0] }}</div>
+                <div class="mb-2">
+                    {% if tag[0] not in punctuation %}
+                    <select name="{{ loop.index }}_{{ tag[0] }}" class="form-select" required>
+                        <option disabled></option>
+                        {% for option in options %}
+                        <option value="{{ option }}">{{ option }}</option>
+                        {% endfor %}
+                    </select>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        <button type="submit" class="btn btn-primary">Check</button>
+    </form>
+{% else %}
+<div>There are no sentences to tag</div>
+{% endif %}
+</div>

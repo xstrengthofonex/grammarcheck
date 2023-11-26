@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2 class="my-3">Parts of Speech</h2>
+<div id="pos-attempt">
+    <button hx-get="/pos/attempt" hx-target="#pos-attempt" hx-swap="outerHTML" class="btn btn-primary">Let's Tag</button>
+</div>
+{% endblock %}
